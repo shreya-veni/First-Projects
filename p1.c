@@ -1,7 +1,7 @@
 #include <stdio.h>
 // printing the fibonacci sequence
 int main(){
-    printf ("Let us print the Fibonacci sequence:\n");
+    printf ("Let us print the Fibonacci sequence upto 100:\n");
     int num1=1;
     int num0 =0;
     int i;
@@ -14,3 +14,4 @@ int main(){
     }
     return 0;
 }
+
